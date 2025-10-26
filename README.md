@@ -156,4 +156,3 @@ Next steps & improvements
 - Add example curl/httpie requests and a Postman/Insomnia collection.
 
 ---
-Generated on: 2025-10-26
